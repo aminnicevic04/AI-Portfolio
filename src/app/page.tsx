@@ -96,7 +96,7 @@ export default function Home() {
       {/* GitHub button */}
       <div className="absolute top-6 right-8 z-20">
         <GitHubButton
-          href="link"
+          href="https://github.com/aminnicevic04/AI-Portfolio"
           data-color-scheme="no-preference: light; light: light; dark: light_high_contrast;"
           data-size="large"
           data-show-count="true"
@@ -132,8 +132,9 @@ export default function Home() {
         </div>
 
         <h2 className="text-secondary-foreground mt-1 text-xl font-semibold md:text-2xl">
-          Hey, I'm Amin 👋
+          Hey, I'm Amin 👋 and this is my
         </h2>
+        
         <h1 className="text-4xl font-bold sm:text-5xl md:text-6xl lg:text-7xl">
           AI portfolio
         </h1>
