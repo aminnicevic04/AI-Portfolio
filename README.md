@@ -48,7 +48,8 @@ Ask anything. Explore freely. Make it yours.
 
 - **React** + **Next.js**  
 - **OpenAI API**  
-- **TailwindCSS**  
+- **TailwindCSS**
+- **Next AI SDK**
 - **Vercel** for deployment
 
 ---
