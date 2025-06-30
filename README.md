@@ -46,9 +46,9 @@ Ask anything. Explore freely. Make it yours.
 
 ## 🛠️ Built With
 
-- **React** + **Next.js**  
-- **OpenAI API**  
+- **React** + **Next.js**
 - **TailwindCSS**
+- **OpenAI API**  
 - **Next AI SDK**
 - **Vercel** for deployment
 
