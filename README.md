@@ -39,7 +39,7 @@ Whether you're hiring, collaborating, or just browsing — the AI Portfolio answ
 
 ## 🔗 Try it out
 
-🟢 **Live Preview:** [your-link-here.com](https://your-link-here.com)  
+🟢 **Live Preview:** [link](ai-portfolio-sable-xi.vercel.app)  
 Ask anything. Explore freely. Make it yours.
 
 ---
