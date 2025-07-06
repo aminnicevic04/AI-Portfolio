@@ -30,15 +30,15 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Amin",
-      url: "https://Amin.fr",
+      url: "https://aminnicevic.com",
     },
   ],
   creator: "Amin",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://Amin.fr",
-    title: "Amin Portfolio",
+    url: "https://aminnicevic.com",
+    title: "Amin's Portfolio",
     description: "Interactive portfolio with an AI-powered Memoji that answers questions about me",
     siteName: "Amin Portfolio",
   },

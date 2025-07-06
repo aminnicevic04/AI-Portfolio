@@ -16,6 +16,7 @@ import {
   ChevronUp,
   CircleEllipsis,
   CodeIcon,
+  FileText,
   GraduationCapIcon,
   Laugh,
   Layers,
@@ -36,8 +37,9 @@ interface HelperBoostProps {
 const questions = {
  Me: 'Who are you? I want to know more about you.',
   Projects: 'What are your projects? What are you working on right now?',
+   CV: 'Can I have your CV?',
   Skills: 'What are your skills? Give me a list of your soft and hard skills.',
-  Fun: 'What are your hobbies outside of coding?',
+  Fun: "What's the craziest thing you've ever done?",
   Contact:
     'How can I contact you for a project or job?',
 };
@@ -46,6 +48,7 @@ const questionConfig = [
   { key: 'Me', color: '#329696', icon: Laugh },
   { key: 'Projects', color: '#3E9858', icon: BriefcaseBusiness },
   { key: 'Skills', color: '#856ED9', icon: Layers },
+  { key: 'CV', color: '#D9A44E', icon: FileText },
   { key: 'Fun', color: '#B95F9D', icon: PartyPopper },
   { key: 'Contact', color: '#C19433', icon: UserRoundSearch },
 ];
